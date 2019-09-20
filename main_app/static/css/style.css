@@ -1,0 +1,26 @@
+body {
+    
+    text-align:center;
+}
+table{
+    margin-left:30em;
+}
+table th{
+    padding:0 20px;
+}
+
+table tr:nth-child(odd) {
+    background:lightgrey;
+}
+td{
+    padding:0 20px;  
+}
+span.red-button{
+    color:red;
+}
+input[value='X']{
+    color:red;
+}
+input[value='ADD THE WIDGET BRO']{
+    background-color:lightgrey;
+}
